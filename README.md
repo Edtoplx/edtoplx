@@ -1,26 +1,24 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka
-name: Waka Time
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%202%20mins-blue)
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_97ebeda4-241f-4d4a-baa4-99dc0a0b083f }}
-          GH_TOKEN: ${{ secrets.ghp_VKTO37IKPHea6zywTuuaXiGagAmInY3xPMV }}
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_OS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-END_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+💬 Programming Languages: 
+Go                       6 hrs 21 mins       ██████████████████████░░░   86.39 % 
+Docker                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+go.mod                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+🔥 Editors: 
+GoLand                   7 hrs 22 mins       █████████████████████████   100.00 % 
+💻 Operating System: 
+Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/03/2023 01:36:00 UTC
+<!--END_SECTION:waka-->
