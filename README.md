@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 name: Waka Time
 
 on:
@@ -23,4 +23,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
