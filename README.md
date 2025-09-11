@@ -1,26 +1,37 @@
-![banner](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Edtoplx....;Nice+to+meet+you!&center=false)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edto08)
+<h1 align="center">Hi There, I'm <a href="https://github.com/Edtoplx">Edi Riyanto</a></h1>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20mins-blue)
+## 🚀 Tech Stack:
+  
+<details>
+  <summary>
+    <strong>DevOps</strong>
+  </summary>
+  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br>
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+<br>
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+</details>
 
-📊 **This Week I Spent My Time On** 
+## 📊 Github Stats
+<p align="center">
+  <a href="https://github.com/edtoplx">
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edtoplx&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&title_color=58a6ff" />
+    
+  </a>
+ </p>
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
+### 📫 Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/auliaahmadnabil/)
+[![GMail Badge](https://img.shields.io/badge/-Gmail-D1483E?style=flat-square&logo=Gmail&logoColor=white)](mailto:riyanto.ediii@gmail.com)
+<br>
 
-💬 Programming Languages: 
-Markdown                 35 mins             ████████████████░░░░░░░░░   64.42 % 
-Other                    19 mins             █████████░░░░░░░░░░░░░░░░   35.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
-```
+## ❤ Views and Followers
+<img src="https://komarev.com/ghpvc/?username=edtoplx">
+<a href="https://github.com/edtoplx?tab=followers"><img src="https://img.shields.io/github/followers/edtoplx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
- Last Updated on 03/04/2023 01:09:09 UTC
-<!--END_SECTION:waka-->
